@@ -1,8 +1,8 @@
 # Mi curriculum vitae
 
-##Ejemplo  de bootscamp de Desafio LATAM
+## Ejemplo de bootcamp DesafíoLatam
 
 Tecnologías usadas:
-- HTML
+- HTML 
 - CSS3
 - GIT
