@@ -1,8 +1,9 @@
-# Mi curriculum vitae
+# Mi portafolio
 
-## Ejemplo de bootcamp DesafíoLatam
+## Desafio modulo 1
 
-Tecnologías usadas:
-- HTML 
-- CSS3
-- GIT
+Contenidos:
+- Desafio cv
+- Desafio ChocoEatMe
+- Desafio Iguana
+- Desafio Cupón
